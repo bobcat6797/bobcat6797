@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ... anything interesting in today's economic-landscape
 - 📫 How to reach me ... Linked-In/subterren
 - 😄 Pronouns: ... him
-- ⚡ Fun fact: ..." i like the view from here "
 
 <!---
 bobcat6797/bobcat6797 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
